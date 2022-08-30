@@ -1,1 +1,1 @@
-demo version : "https://main.d4o88wdwjwm40.amplifyapp.com/"
+yelp-clone demo [https://main.d2a0rof0yuoqxa.amplifyapp.com/]
